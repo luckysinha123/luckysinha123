@@ -89,14 +89,6 @@ currently   : Hunting bugs 🐛 | Breaking things (ethically) 💻 | GSoC aspira
       <a href="https://github.com/luckysinha123/Camtool">→ View Repo</a>
     </td>
     <td width="50%">
-      <h3>📚 Infosec_Reference</h3>
-      <p>A curated knowledge base of information security resources, tools, techniques, and references for security practitioners and learners.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Knowledge_Base-yellow?style=flat-square"/>
-      </p>
-      <a href="https://github.com/luckysinha123/Infosec_Reference">→ View Repo</a>
-    </td>
   </tr>
 </table>
 
