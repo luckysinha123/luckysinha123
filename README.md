@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://tryhackme.com/p/LucentLuck">
-      <img src="https://img.shields.io/badge/TryHackMe-Top_15%25-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+      <img src="https://img.shields.io/badge/TryHackMe-Top_10%25-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
     </a>
     <a href="https://hackerone.com">
       <img src="https://img.shields.io/badge/HackerOne-Bug_Bounty-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
